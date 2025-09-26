@@ -1,0 +1,16 @@
+# C++ output files
+*.out
+*.exe
+*.o
+
+# Common executable names
+a.out
+main
+solution
+test
+program
+
+# Build directories
+build/
+bin/
+obj/
